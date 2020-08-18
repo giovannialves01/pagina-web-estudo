@@ -1,0 +1,37 @@
+body {
+    background: rgb(220, 220, 220);
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+h1{
+    color: black;
+    font-family: 'Lucida Sans';
+}
+
+h2{
+    font-family: 'Lucida Sans';
+    margin-left: -25px;
+}
+
+p{
+    font-size: 18px;
+}
+img{
+    margin-left: -25px;
+}
+li{
+    margin-left: -22px;
+} 
+footer{
+    margin-bottom: 40px;
+}
+.img1{
+    margin-right: 45px;
+}
+.img2{
+    margin-right: 45px;
+}
+.img3{
+    margin-right: 45px;
+}
